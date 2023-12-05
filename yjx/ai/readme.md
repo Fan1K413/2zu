@@ -2,8 +2,8 @@
   
  > 研究性学习–探寻人工智能📎
 
-[课题研究报告](https://cyming.top/yjx/0)📋
-[GPT3.5](https://2z.cyming.top/yjx/app)🤖
+[课题研究报告](https://cyming.top/yjx/ai/0)📋
+[GPT3.5](https://2z.cyming.top/yjx/ai/app)🤖
 
  ### 📫 联系我 
   
