@@ -1,6 +1,4 @@
 # 你好，这里是[二组](https://2z.cyming.top)! 
-
-<img width="125" align="right" src="https://img.cyming.top/file/dc6bec7675d1dd05b5a09.png" />
   
  > 研究性学习–探寻人工智能📎
 
@@ -9,7 +7,7 @@
 
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/0/课题研究报告–探寻人工智能.pdf"
-  width="100%"
+  width="60%"
   height="800px"
 ></iframe>
 
