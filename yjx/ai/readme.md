@@ -7,6 +7,12 @@
 [课题研究报告](https://2z.cyming.top/yjx/ai/0)📋
 [GPT3.5](https://2z.cyming.top/yjx/ai/app)🤖
 
+<iframe
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=/0/课题研究报告–探寻人工智能.pdf"
+  width="100%"
+  height="800px"
+></iframe>
+
  ### 📫 联系我 
   
  你可以使用电子邮件联系我. 
