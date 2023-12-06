@@ -2,11 +2,11 @@
   
  > 研究性学习–探寻人工智能📎
 
-[课题研究报告](https://2z.cyming.top/yjx/ai/0)📋
-[GPT3.5](https://2z.cyming.top/yjx/ai/app)🤖
+[课题研究报告](https://2z.cyming.top/yjx/ai/课题研究报告–探寻人工智能.pdf)📋
+[GPT3.5](https://360iz6tl4.cyming.top/#/)🤖
 
 <iframe
-  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/0/课题研究报告–探寻人工智能.pdf"
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/课题研究报告–探寻人工智能.pdf"
   width="100%"
   height="800px"
 ></iframe>
