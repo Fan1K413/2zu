@@ -30,12 +30,10 @@
   height="800px"
 ></iframe>-->
 
-<p>
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/课题研究报告–探寻人工智能.pdf"
   width="100%"
   height="800px"></iframe>
-</p>
 
  ### 📫 联系我 
   
