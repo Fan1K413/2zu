@@ -31,7 +31,7 @@
 ></iframe>-->
 
 <iframe
-  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/课题研究报告–探寻人工智能.pdf"
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/0/课题研究报告–探寻人工智能.pdf"
   width="100%"
   height="800px"></iframe>
 
