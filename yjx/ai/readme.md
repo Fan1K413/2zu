@@ -20,6 +20,12 @@
   height="800px"
 ></iframe>
 
+<iframe
+  src="https://img.cyming.top/file/b3a1420029c9150661fec.jpg"
+  width="100%"
+  height="800px"
+></iframe>
+
 //<iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/课题研究报告–探寻人工智能.pdf"
   width="100%"
