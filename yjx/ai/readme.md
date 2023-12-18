@@ -18,22 +18,22 @@
 
 [![综评填写](https://img.cyming.top/file/b3a1420029c9150661fec.jpg)](#)
 
-<iframe
+<!--<iframe
   src="https://img.cyming.top/file/b26d2de4b9146d79d4fac.png"
   width="100%"
   height="800px"
-></iframe>
+></iframe>-->
 
-<iframe
+<!--<iframe
   src="https://img.cyming.top/file/b3a1420029c9150661fec.jpg"
   width="100%"
   height="800px"
-></iframe>
+></iframe>-->
 
-//<iframe
+<!--<iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/课题研究报告–探寻人工智能.pdf"
   width="100%"
-  height="800px"></iframe>
+  height="800px"></iframe>-->
 
  ### 📫 联系我 
   
