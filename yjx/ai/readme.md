@@ -16,7 +16,7 @@
 
 [![研究报告](https://img.cyming.top/file/b26d2de4b9146d79d4fac.png)](#)
 
-[![综评填写](https://img.cyming.top/file/b3a1420029c9150661fec.jpg)](#)
+[![综评填写](https://img.cyming.top/file/5d66965fd672ff5314534.jpg)](#)
 
 <!--<iframe
   src="https://img.cyming.top/file/b26d2de4b9146d79d4fac.png"
