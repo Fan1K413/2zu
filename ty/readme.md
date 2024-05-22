@@ -4,9 +4,9 @@
 
 [课题研究报告](https://2z.cyming.top/ty/淄川中学通用技术团队评价表.pdf)📋
 
-[![1](https://img.cyming.top/file/1410ebb613e2cc7e923fd.jpg)](#)
-[![2](https://img.cyming.top/file/e767105b49d54c1bafea4.jpg)](#)
-[![3](https://img.cyming.top/file/4c8e12f17a5d6bba05395.jpg)](#)
+[![1](https://img.cyming.top/file/0caa4b1be83a2976ae2da.jpg)](#)
+[![2](https://img.cyming.top/file/36372acc817a514872606.jpg)](#)
+[![3](https://img.cyming.top/file/b239d86668c181ff1e8f1.jpg)](#)
 
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/ty/淄川中学通用技术团队评价表.pdf"
