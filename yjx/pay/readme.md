@@ -13,18 +13,18 @@
 2.边缘计算和物联网融合：将人工智能技术与边缘计算和物联网相结合，可以实现更高效、实时的数据处理和智能决策。
 人工智能作为一项颠覆性的技术将持续影响和改变我们的生活。在充分应用人工智能的同时，我们也需要重视伦理和社会问题，建立健全的法律法规和监管机制，实现人工智能的可持续发展和人类社会的共同进步。
 
-[![研究报告](https://img.cyming.top/file/40512b4b7ddaf5df9796d.jpg)](#)
+[![研究报告](https://img.cyming.top/file/e35d9a81ccbfba7369ec7.jpg)](#)
 
-[![综评填写](https://img.cyming.top/file/5d66965fd672ff5314534.jpg)](#)
+[![综评填写](https://img.cyming.top/file/b2d87c51c095d9964e9ac.png)](#)
 
 <!--<iframe
-  src="https://img.cyming.top/file/40512b4b7ddaf5df9796d.jpg"
+  src="https://img.cyming.top/file/e35d9a81ccbfba7369ec7.jpg"
   width="100%"
   height="800px"
 ></iframe>-->
 
 <!--<iframe
-  src="https://img.cyming.top/file/b3a1420029c9150661fec.jpg"
+  src="https://img.cyming.top/file/b2d87c51c095d9964e9ac.png"
   width="100%"
   height="800px"
 ></iframe>-->
