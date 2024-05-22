@@ -12,18 +12,6 @@
 
 [![综评填写](https://img.cyming.top/file/b2d87c51c095d9964e9ac.png)](#)
 
-<!--<iframe
-  src="https://img.cyming.top/file/e35d9a81ccbfba7369ec7.jpg"
-  width="100%"
-  height="800px"
-></iframe>-->
-
-<!--<iframe
-  src="https://img.cyming.top/file/b2d87c51c095d9964e9ac.png"
-  width="100%"
-  height="800px"
-></iframe>-->
-
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/pay/课题研究报告–走进互联网支付.pdf"
   width="100%"
