@@ -4,9 +4,9 @@
   
  > 淄川中学2022级10班二组
 
-[研究性学习–探寻人工智能](https://2z.cyming.top/yjx/ai)🤖
-[通用技术–足球夜灯](https://2z.cyming.top/ty)⚽
-[研究性学习–走进互联网支付](https://2z.cyming.top/yjx/pay)💵
+[研究性学习–探寻人工智能](https://2z.cyming.top/yjx/ai)🤖(#)
+[通用技术–足球夜灯](https://2z.cyming.top/ty)⚽(#)
+[研究性学习–走进互联网支付](https://2z.cyming.top/yjx/pay)💵(#)
   
  ### 📫 联系我 
   
