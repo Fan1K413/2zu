@@ -1,9 +1,8 @@
 # 你好，这里是[二组](https://2z.cyming.top)! 
   
- > 研究性学习–探寻人工智能📎
+ > 课题研究报告–走进互联网支付📎
 
-[课题研究报告](https://2z.cyming.top/yjx/ai/0/课题研究报告–探寻人工智能.pdf)📋
-[GPT3.5](https://360iz6tl4.cyming.top/#/)🤖
+[课题研究报告](https://2z.cyming.top/yjx/ai/0/课题研究报告–走进互联网支付.pdf)📋
 
 人工智能是指使机器通过模拟人类的智能行为和思维过程，具备学习、推理、感知和决策等能力，近年来，机器学习、深度学习和大数据等技术的快速发展，为人工智能的实际应用奠定了基础。
 人工智能的应用领域非常广泛，涵盖了几乎所有行业，尽管人工智能在各个领域得到了广泛应用，但仍然存在以下挑战：
@@ -14,12 +13,12 @@
 2.边缘计算和物联网融合：将人工智能技术与边缘计算和物联网相结合，可以实现更高效、实时的数据处理和智能决策。
 人工智能作为一项颠覆性的技术将持续影响和改变我们的生活。在充分应用人工智能的同时，我们也需要重视伦理和社会问题，建立健全的法律法规和监管机制，实现人工智能的可持续发展和人类社会的共同进步。
 
-[![研究报告](https://img.cyming.top/file/b26d2de4b9146d79d4fac.png)](#)
+[![研究报告](https://img.cyming.top/file/40512b4b7ddaf5df9796d.jpg)](#)
 
 [![综评填写](https://img.cyming.top/file/5d66965fd672ff5314534.jpg)](#)
 
 <!--<iframe
-  src="https://img.cyming.top/file/b26d2de4b9146d79d4fac.png"
+  src="https://img.cyming.top/file/40512b4b7ddaf5df9796d.jpg"
   width="100%"
   height="800px"
 ></iframe>-->
@@ -31,7 +30,7 @@
 ></iframe>-->
 
 <iframe
-  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/ai/0/课题研究报告–探寻人工智能.pdf"
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/pay/课题研究报告–走进互联网支付.pdf"
   width="100%"
   height="800px"></iframe>
 
