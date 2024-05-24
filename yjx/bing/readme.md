@@ -4,6 +4,8 @@
 
 [![研究报告](https://img.cyming.top/file/65b2e7659497524daae4b.jpg)](#)
 
+[![综评填写](https://img.cyming.top/file/4b195859665822b409b3b.png)](#)
+
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/bing/课题研究报告–使用vercel搭建bingGPT镜像站.pdf"
   width="100%"
