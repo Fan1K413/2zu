@@ -9,9 +9,9 @@
 研究内容摘要：	本研究围绕互联网支付展开，系统分析了互联网支付的发展历程、现状分析和未来趋势预测，并对互联网支付所涉及的技术、法律法规和市场环境进行了深入分析。研究内容涵盖了互联网支付的技术创新、市场格局、用户需求变化以及监管政策对行业的影响等方面。<br/>
 成果概述：	通过对互联网支付领域的深入研究，本报告提出了对互联网支付未来发展的深刻见解，包括技术创新趋势、市场竞争格局、法律法规对行业的影响等方面的预测和建议。同时，本研究还总结了互联网支付行业当前面临的挑战和机遇，并提出了相应的发展策略和建议，为相关行业从业者和决策者提供了有益的参考和指导。<br/>
 
-[![设计报告](https://img.cyming.top/file/e35d9a81ccbfba7369ec7.jpg)](#)
+[![设计报告](https://img.cyming.top/file/18b959ab14886ed614c2d.jpg)](#)
 
-[![综评填写](https://img.cyming.top/file/4a6116feca2045b722676.png)](#)
+[![综评填写](https://img.cyming.top/file/683611a60b10fa0fa8f25.png)](#)
 
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://2z.cyming.top/yjx/pay/项目(活动)设计报告–走进互联网支付.pdf"
