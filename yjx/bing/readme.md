@@ -1,4 +1,4 @@
- > 课题研究报告–使用vercel搭建bingGPT镜像站📎
+ > 研究性学习–使用vercel搭建bingGPT镜像站📎
 
 [课题研究报告](https://2z.cyming.top/yjx/bing/课题研究报告–使用vercel搭建bingGPT镜像站.pdf)📋
 
